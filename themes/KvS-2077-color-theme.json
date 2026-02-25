@@ -554,14 +554,20 @@
 		},
 		{
 			"name": "Markdown code block",
-			"scope": ["fenced_code.block.language", "markup.inline.raw.markdown"],
+			"scope": [
+				"fenced_code.block.language",
+				"markup.inline.raw.markdown"
+			],
 			"settings": {
 				"foreground": "#ff2e97"
 			}
 		},
 		{
 			"name": "Markdown inline code",
-			"scope": ["fenced_code.block.language", "markup.inline.raw.markdown"],
+			"scope": [
+				"fenced_code.block.language",
+				"markup.inline.raw.markdown"
+			],
 			"settings": {
 				"foreground": "#ff2e97"
 			}
@@ -652,8 +658,9 @@
 		"editorGroup.dropBackground": "#03102c",
 		"editorGroupHeader.noTabsBackground": "#03102c",
 		"editorGroupHeader.tabsBackground": "#03102c",
-		"tab.activeBackground": "#1d1641",
-		"tab.activeForeground": "#f9faff",
+		"tab.activeBackground": "#0500669f",
+		"tab.activeForeground": "#ff2e97",
+		"tab.activeBorder": "#01f7ff",
 		"tab.inactiveBackground": "#141138",
 		"tab.inactiveForeground": "#3e8efd",
 		"tab.border": "#171033",

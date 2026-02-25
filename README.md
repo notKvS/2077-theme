@@ -1,6 +1,6 @@
 # KvS-2077 Cyberpunk Theme
 
-A stunning cyberpunk-inspired dark theme for Visual Studio Code, drawing inspiration from the neon-soaked aesthetic of futuristic dystopian worlds. Perfect for developers who want to immerse themselves in a high-tech, visually striking coding environment.
+Developed on top of `vscode-2077-theme` with some changes which makes easier to identify few things.
 
 ## Features
 
@@ -140,9 +140,6 @@ The KvS-2077 theme is lightweight and optimized for performance:
 - Fast theme loading
 - No impact on editor performance
 
-## Browser Compatibility
-
-This theme is designed exclusively for Visual Studio Code and is not compatible with other editors or online code editors. For web-based code editors, you may find similar cyberpunk themes available.
 
 ## Contributing
 
@@ -168,13 +165,6 @@ For issues, questions, or feature requests:
 2. Provide details about your setup (OS, VS Code version, etc.)
 3. Include screenshots if possible
 
-## Tips & Tricks
-
-- **Adjust Font Size**: Pair with your favorite monospace font for optimal appearance
-- **Use with Extensions**: Works great with popular VS Code extensions
-- **Terminal Integration**: Enable the integrated terminal to enjoy the full cyberpunk experience
-- **Keyboard Shortcuts**: Customize keybindings to match your workflow
-
 ## Related Resources
 
 - [VS Code Theme Documentation](https://code.visualstudio.com/docs/getstarted/themes)
@@ -186,5 +176,3 @@ For issues, questions, or feature requests:
 Immerse yourself in the cyberpunk aesthetic and enhance your coding experience with the KvS-2077 theme. Happy coding! 🚀
 
 ---
-
-**KvS-2077 Theme** - Where code meets neon.
